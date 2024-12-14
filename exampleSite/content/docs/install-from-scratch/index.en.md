@@ -1,12 +1,12 @@
 ---
-title: "Install From Scratch"
+title: "1-Install From Scratch"
 description: "Getting started from scratch with HB cards theme to build your fast, responsive and modular static websites."
 # linkTitle:
 date: 2023-12-02T11:47:31+08:00
 draft: false
 noindex: false
-featured: true
-pinned: true
+featured: false #true  было
+pinned: false #true было
 nav_weight: 1
 nav_icon:
   vendor: bootstrap
